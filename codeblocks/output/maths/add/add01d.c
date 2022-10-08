@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* NOTE: Although the code did run successfully;
-         there is a warning message which says...
-         warning: implicit declaration of function: add; did you mean 'rand'/-etc.
-         I think, this means that the called module add was not declared as being a header, first.
-*/         
+int add(int x,int y);
 
 int main()
 {
