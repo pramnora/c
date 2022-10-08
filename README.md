@@ -20,13 +20,13 @@ The FREE code editor I'm using is called: CodeBlocks.
 
 ## Links
 
-https://www.codeblocks.org  
+- https://www.codeblocks.org  
 
 ## Videos
 
 C Programming Tutorial for Beginners - (Channel: freecodecamp.org)  
-https://www.youtube.com/watch?v=KJgsSFOSQv0&t=4364s  
+- https://www.youtube.com/watch?v=KJgsSFOSQv0&t=4364s  
 
 C Programming Tutorial 1 - Intro to C - (Channel: Caleb Curry)  
-https://www.youtube.com/watch?v=CPjZKsUYSXg    
+- https://www.youtube.com/watch?v=CPjZKsUYSXg    
 
