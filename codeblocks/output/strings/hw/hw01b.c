@@ -12,5 +12,5 @@ int main()
 void greetings()
 {
     printf("Hello, world!\n");
-    return;
+    return; /* not sure this return statement is necessary/as it, automatically, returns) */
 }
