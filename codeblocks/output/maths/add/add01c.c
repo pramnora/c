@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void add(int x,int y);
+
 int main()
 {
     int x=1;
