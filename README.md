@@ -1,7 +1,7 @@
-# c
-c programming code
+# C
+C programming code
 
-Created: *Sat 8th Oct 2022 03:59 AM GMT*
+Created: *Sat 8th Oct 2022 03:59 AM GMT*  
 Updated: *Sat 8th Oct 2022 03:59 AM GMT*
 
 -----
