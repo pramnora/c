@@ -20,6 +20,7 @@ The FREE code editor I'm using is called: CodeBlocks.
 
 ## Links
 
+CodeBlocks (FREE IDE/Integrated Development Environment: source code editor/compiler/viewer/-etc.)  
 - https://www.codeblocks.org  
 
 ## Videos
