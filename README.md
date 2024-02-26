@@ -2,7 +2,7 @@
 C programming code
 
 Created: *Sat 8th Oct 2022 03:59 AM GMT*  
-Updated: *Sat 8th Oct 2022 03:59 AM GMT*
+Updated: *Mon 26th Feb 2024 21:48 PM GMT*
 
 -----
 
@@ -14,7 +14,14 @@ I started off learning programming by using the BASIC programming language, inst
 
 Thus, I'm merely just a **beginner** who's *new* to learning C.  
 
-The FREE code editor I'm using is called: CodeBlocks.  
+The FREE code editor I'm using is called: CodeBlocks.
+
+UPDATED(260224)  
+
+I'm no longer using Windows OS Platform, anymore.  
+My current OS is Linux Mint.  
+I am able to create/run C code using GCC compiler.  
+-(**NOTE**: I still remain a total 'beginner' when it comes to writing c code.)-  
 
 -----
 
